@@ -1,139 +1,34 @@
-<h1 align="center"> Bonjour ! <img width="40" height="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"> I'm Shubhanshu </h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Shubhanshu Rai</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p  align="center">
-<img align="center" alt="coding" width="190" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
-<img align="center" alt="coding" width="290" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif">
-<img align="center" alt="coding" width="190" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=212shubh&label=Profile%20views&color=0e75b6&style=flat" alt="212shubh" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=212shubh" alt="212shubh" /></a> </p>
+
+- 🌱 I’m currently learning **DSA,HTML,CSS,JAVASCRIPT,JAVA**
+
+- 👨‍💻 All of my projects are available at [https://github.com/212shubh/CODSOFT/tree/main/codsoft_2](https://github.com/212shubh/CODSOFT/tree/main/codsoft_2)
+
+- 📫 How to reach me **shubhanshurai98@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/212shubh/CODSOFT/tree/main/codsoft_2](https://github.com/212shubh/CODSOFT/tree/main/codsoft_2)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/shubhanshu-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shubhanshu-rai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/212shubh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="212shubh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubhanshu_m210667ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhanshu_m210667ca" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nitcm21/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nitcm21/profile" height="30" width="40" /></a>
 </p>
 
-<!-- <img align="center" width="1200" height="300" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"> -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-<div align="center">
-    
-[![](https://visitcount.itsvg.in/api?id=sakshitripathi28&icon=0&color=0)](https://visitcount.itsvg.in)    
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-tripathi28/)
-[![My Playlist](https://img.shields.io/badge/My%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7j4pdc5O6yJbcWC1SkYJA0?si=94ae1d67ae5d4f29)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/9713809901@upi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="9713809901@upi" /></a></p><br><br>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=212shubh&show_icons=true&locale=en&layout=compact" alt="212shubh" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=212shubh&show_icons=true&locale=en" alt="212shubh" /></p>
 
-
-<img alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-
-<h2 align="center">💫 About Me:</h2>
-
-<p align="center">
-    
-- 🎀 A student
-- 🌱 Currently styding at <a href="http://www.nitc.ac.in" target="_blank">NIT Calicut</a>.
-- 👀 I’m currently learning ReactJS,Data Structure & Algo.
-- 🧑‍💻 Doing Competitive programing on cf nd cc
-- 💞️ I’m looking to collaborate on web developing
-- 📫 How to reach me - you can msg me on Email: shubhanshurai98@gmail.com
-
-</p>
-
-<h2 align="center">💻 Tech Stack:</h2>
-<p  align="center">
-    
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-
-</p>
-
-
-<h2 align="center">🌐 Socials:</h2>
-
-<p  align="center">
-
-<a href="www.linkedin.com/in/
-212shubh/">
-   <img alt="sakshi" src="https://img.shields.io/badge/-sakshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sakshi-tripathi28/" />
- </a>
-  
- <a href="mailto:shubhanshurai98@gmail.com">
-   <img alt="sakshi" src="https://img.shields.io/badge/-sakshi-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshitripathi1228@gmail.com" />
- </a>
-  
- <a href="https://instagram.com/https://www.instagram.com/ptakha_kudi_/">
-   <img alt="sakshi" src="https://img.shields.io/badge/-sakshi.k-red?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/ptakha_kudi_/" />
- </a>
-
- </a>
-
- <a href="https://github.com/212shubh">
-   <img alt="sakshi" src="https://img.shields.io/github/followers/sakshitripathi28?label=follow&style=social" />
- </a> 
-    
-</p>
-
-
-<h2 align="center">📊 GitHub Stats:</h2>
-
-<p  align="center">
-<!-- |  --><kbd>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshitripathi28&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-<!--    | -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshitripathi28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" />
-<!--    | -->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshitripathi28&theme=dark&hide_border=false" />
-<!--    | --></kbd>
-</p>
-
-<h2 align="center">🔝 Top Contributed Repo</h2>
-<p  align="center">
-<kbd>
-<img align="center" src="https://github-contributor-stats.vercel.app/api?username=sakshitripathi28&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</kbd>
-</p>
-
-<h2 align="center">✍️ Random Dev Quote</h2>
-
-<p  align="center">
-<kbd>
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=false"/>
-</kbd>
-</p>
-
-
-<h2 align="center">😍 Let's Have a Music</h2>
-<p  align="center">
-<kbd>
-<img align = "center" alt="party time" src="https://tthn0.vercel.app/api?spin=true">
-<img align = "center" alt="party time" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif">
-
-<h4 align="center">Here are some 🦜 party parrots</h4>
-<div>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
-</kbd>
-</p>
-
-
-<img alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=212shubh&" alt="212shubh" /></p>
